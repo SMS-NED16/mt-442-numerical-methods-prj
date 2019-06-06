@@ -11,7 +11,7 @@
 - Modularized program to allow for addition of new methods.
 
 ### Part 2 - Regression
-- Implemented linear, polynomial, and exponential regression models for a f(t) = t^2 - 2t + exp(t)
+- Implemented linear, polynomial, and exponential regression models for a $f(t) = t^2 - 2t + exp(t)$
 - Automated calculation of coefficients for each model.
 - Plotted predicted regression model against actual data.
 - Compared and contrasted all regression models based on RMS errors.
