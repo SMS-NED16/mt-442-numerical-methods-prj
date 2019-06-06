@@ -1,5 +1,6 @@
 # MT-442 Project: Numerical Methods in MATLAB
 ### An end-of-semester project for the MT-442 Numerical Methods course as part of the BE-Electrical Engineering program at NEDUET.
+Please see the [Project Report](./mt-442-prj-report.pdf) for more details.
 
 ### Part 1 - Root Approximation
 - Implemented a suite of root approximation methods in MATLAB, including
